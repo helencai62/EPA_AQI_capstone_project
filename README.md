@@ -37,3 +37,5 @@ In preparation, I cleaned the dataset to return one AQI value and category for e
 For additional features, I created a Season feature as summertime shows the highest variability in AQI values and created a filter for reporting area location in Northern CA vs Southern CA. Next steps are to parse discussion text for alarm words such as "fire" or "thunderstorm".
 
 To tune for hyperparameters in my models, I used various n closest reporting areas, such as 3 or 5 reporting area locations closest to San Francisco and regularized. I also evaluated the models comparing various classification metrics such as accuracy, mean absolute error, and Hamming Loss.
+
+For more exploratory data visualization, download my workbook here: https://public.tableau.com/profile/helen2020#!/
