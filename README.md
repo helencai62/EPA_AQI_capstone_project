@@ -1,6 +1,6 @@
 Predicting Air Quality Index in San Francisco
-July 17, 2018
 Helen C
+July 17, 2018
 
 1. Summary:
 
